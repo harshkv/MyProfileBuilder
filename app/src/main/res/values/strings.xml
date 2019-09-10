@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Profile Builder</string>
+    <string name="gender_select">Select Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">SAVE</string>
+    <string name="edit">EDIT</string>
+
+</resources>
